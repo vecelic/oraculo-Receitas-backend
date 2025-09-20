@@ -10,7 +10,7 @@ Backend da aplicação Oráculo de Receitas, responsável por gerenciar os dados
 
 ### 🎥 Demonstração
 
-[INSERIR AQUI UM GIF CURTO DA APLICAÇÃO COMPLETA FUNCIONANDO. Ferramentas como 'ScreenToGif' (Windows) ou 'Kap' (Mac) são ótimas para isso.]
+![Demonstração do Oráculo de Receitas](https://github.com/vecelic/oraculo-receitas-frontend/blob/main/demonstracao/Demonstracao.gif?raw=true)
 
 ---
 
