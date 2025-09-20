@@ -1,0 +1,22 @@
+# Arquivo de segredos
+.env
+
+# Oficina do Python (Ambiente Virtual)
+venv/
+
+# Resíduos mágicos do Python (cache e arquivos compilados)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Banco de dados de desenvolvimento
+*.sqlite3
+
+# Arquivos de IDEs e editores comuns
+.vscode/
+.idea/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
